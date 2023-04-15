@@ -1,5 +1,4 @@
-<h1 align="center">Hola![wave](https://user-images.githubusercontent.com/45359383/232196203-5abe3586-0633-4a7f-8552-cc9c0873e730.gif)
-, I'm Prabhu</h1>
+<h1 align="center">Hola!👋, I'm Prabhu</h1>
 <h3 align="center">A passionate flutter developer from India. I specialize in creating stunning UI designs and developing lightning-fast, seamless apps. With a track record of delivering top-quality apps that exceed expectations, I am dedicated to crafting efficient and elegant solutions that provide a great user experience. Whether it's developing custom widgets or implementing complex animations, I am committed to delivering high-quality apps that meet the unique needs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhunath111&label=Profile%20views&color=0e75b6&style=flat" alt="prabhunath111" /> </p>
